@@ -1,8 +1,8 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-occlum/occlum
-occlum/occlum:latest-ubuntu20.04
+#occlum/occlum
+occlum/occlum:0.29.0-ubuntu20.04
