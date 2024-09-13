@@ -5,3 +5,4 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 occlum/occlum
+occlum/occlum:latest-ubuntu20.04
